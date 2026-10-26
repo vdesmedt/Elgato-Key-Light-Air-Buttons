@@ -4,3 +4,4 @@ PCB arrived on Oct 26 2026
 - Space between MX switches to allow for the cap
 - Square corners
 - LED Upside down (now lightning toward the back)
+- Miss 5V test point
